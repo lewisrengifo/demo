@@ -10,6 +10,8 @@ public class DemoGitLab1Application {
 		SpringApplication.run(DemoGitLab1Application.class, args);
 
 		System.out.println("Hello World");
+
+		System.out.println("Bye World");
 	}
 
 }
